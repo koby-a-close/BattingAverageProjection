@@ -7,4 +7,6 @@ There are two models in the repository and a Jupyter Notebook for the final mode
 
 1) XGBRegression model using the Top 5 features for predicting batting average.
 
-2) Multiple Linear Regression model using the same 5 features. Performed equally as well as the XGB model.
+2) Multiple Linear Regression model using all of the features provided.
+
+2) Multiple Linear Regression model using the same 5 features as the XGB model.
